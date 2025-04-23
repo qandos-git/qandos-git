@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I am Nour 👋
+I’m a Machine Learning Engineer. I spend most of my time learning new things, teaching what I know, working on LLM papers, building interesting projects, reading tech books, and sharing my insights on social platforms.
 
-<!--
-**qandos-git/qandos-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎬 I'm a Youtuber 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 I'm a Youtuber 
+- ✍️ I’m blogger
+- 🌱 Currently learning about RAG and design patterns
+- 👯 Open to collaborating on Arabic NLP research
+- 💬 Always happy to connect with tech folks
+- 📫 Reach me at: [nooramerq0@gmail.com]
+- ⚡ Fun fact: I enjoy watching anime
